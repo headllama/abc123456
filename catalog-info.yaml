@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: headllama/
     backstage.io/techdocs-ref: dir:.
-    jira/project-key: PN
+    jira/project-key: TJ
 spec:
   type: service
   lifecycle: experimental
