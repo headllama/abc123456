@@ -8,6 +8,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     jira.com/project-key: TJ
 spec:
-  type: website
+  type: service
   lifecycle: experimental
   owner: "user:default/bmansur"
