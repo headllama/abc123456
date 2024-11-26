@@ -1,5 +1,5 @@
 variables:
-  PROJETO: abc123456
+  PROJETO: bostaewr
   NAMESPACE: "teste-pipeline"
   PORTA: "8080"
 
