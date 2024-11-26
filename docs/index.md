@@ -1,9 +1,9 @@
 ---
-id: abc123456
-title: abc123456
+id: 
+title: 
 description: All Docs
 ---
 
-# abc123456 docs
+#  docs
 
 This is a basic example of documentation.
