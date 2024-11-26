@@ -1,5 +1,5 @@
 variables:
-  PROJETO: abc123456
+  PROJETO: ffsafe
   NAMESPACE: "teste-pipeline"
   PORTA: "8080"
 
