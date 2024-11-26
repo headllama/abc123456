@@ -1,13 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "abc123456"
-  description: "dfgdfg"
+  name: "asdasdaas"
+  description: "testando template node"
+  tags:
+      - dotnet
+      - foobar
   annotations:
     github.com/project-slug: headllama/
     backstage.io/techdocs-ref: dir:.
-    jira.com/project-key: TJ
 spec:
   type: service
-  lifecycle: experimental
-  owner: "user:default/bmansur"
+  lifecycle: production
+  owner: "user:default/guest"
