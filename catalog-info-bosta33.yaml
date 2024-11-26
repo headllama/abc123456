@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "bosta33"
+  description: "testando template node"
+  repoUrl: https://github.com/headllama/bosta33
+  tags:
+      - dotnet
+      - foobar
+  annotations:
+    github.com/project-slug: headllama/bosta33
+    backstage.io/techdocs-ref: dir:.
+    jira.com/project-key: FDP
+spec:
+  type: service
+  lifecycle: production
+  owner: "user:default/gabrielmancini"
